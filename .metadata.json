@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CUSUMdesign",
+    "oncran": true
+  },
+  {
+    "package": "sdwd",
+    "oncran": true
+  }
+]

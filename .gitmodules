@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CUSUMdesign"]
+	path = CUSUMdesign
+	url = https://github.com/boxiang-wang/cusumdesign
+	shallow = true
+	registered = true
+[submodule "sdwd"]
+	path = sdwd
+	url = https://github.com/boxiang-wang/sdwd
+	shallow = true
+	registered = true
