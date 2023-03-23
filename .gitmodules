@@ -8,6 +8,11 @@
 	url = https://github.com/boxiang-wang/cusumdesign
 	shallow = true
 	registered = true
+[submodule "kerndwd"]
+	path = kerndwd
+	url = https://github.com/cran/kerndwd
+	shallow = true
+	registered = true
 [submodule "sdwd"]
 	path = sdwd
 	url = https://github.com/boxiang-wang/sdwd
