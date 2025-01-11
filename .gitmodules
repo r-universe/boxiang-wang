@@ -8,6 +8,9 @@
 [submodule "CUSUMdesign"]
 	path = CUSUMdesign
 	url = https://github.com/boxiang-wang/cusumdesign
+[submodule "dcsvm"]
+	path = dcsvm
+	url = https://github.com/cran/dcsvm
 [submodule "kerndwd"]
 	path = kerndwd
 	url = https://github.com/cran/kerndwd
